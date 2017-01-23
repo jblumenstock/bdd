@@ -1,5 +1,3 @@
-# diid17
-
 ## Data-Intensive International Development, U.C. Berkeley, Spring 2017
 
 Repository contains code for Joshua Blumenstock's course on Data-Intensive International Development
