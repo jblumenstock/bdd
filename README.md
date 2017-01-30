@@ -9,6 +9,6 @@ Repository contains code for Joshua Blumenstock's course on Data-Intensive Inter
 - Office Hours (for enrolled students): Tuesdays 10:30-12:00, 207C South Hall
 - Contact: jblumenstock@berkeley.edu
 
-## Assignment 1 Guidance:
+## Getting started with the first assignment:
 
-Download `DIID17-PS1.ipynb` to get started with the first assignment. If you're new to Jupyter notebooks, please work through a tutorial or two (such as [this one](http://opentechschool.github.io/python-data-intro/core/notebook.html) *before* you get started on this assignment. If you're new to git/GitHub, don't worry, you don't need to do anything fancy for this problem set. 
+Download `DIID17-PS1.ipynb` to get started with the first assignment. If you're new to Jupyter notebooks, please work through a tutorial or two (such as [this one](http://opentechschool.github.io/python-data-intro/core/notebook.html)) *before* you get started on this assignment. If you're new to git/GitHub, don't worry, you don't need to do anything fancy for this problem set. Just click on "Clone or Download" and then download the entire directory as a .zip.
