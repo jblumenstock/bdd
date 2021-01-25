@@ -1,12 +1,10 @@
-## Big Data & Development, U.C. Berkeley, Spring 2019
+## Big Data & Development, U.C. Berkeley, Spring 2021
 
 Repository contains code for Joshua Blumenstock's course on Data-Intensive International Development
 
 - Course Website: http://sites.ischool.berkeley.edu/bdd/ 
 - Instructor: Prof. Joshua Blumenstock
-- Problem set assistant: Guanghua Chi
-- Lectures: Mondays 10:00-12:30, South Hall 205
-- Office Hours (for enrolled students): Mondays 1:30-3:00, 207C South Hall
+- Problem set assistants: Suraj Nair, Guanghua Chi
 - Contact: jblumenstock@berkeley.edu
 
 ## Getting started with the first assignment:
